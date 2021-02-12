@@ -1,4 +1,4 @@
-# OpenWrt-Lienol-actions
+# OpenWrt-Lienol-Actions
 
 #### 以科学上网旁路由为目的，基于Lienol/openwrt编译，只包含PW。
 
